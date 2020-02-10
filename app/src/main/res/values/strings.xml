@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">GitHubUsers</string>
+    <string name="cannot_open_website">Cannot open website</string>
+    <string name="followers">Followers: </string>
+    <string name="gists">Gists: </string>
+    <string name="no_connection">No connection</string>
+    <string name="repos">Repos: </string>
+    <string name="users">Users</string>
+
+
+</resources>
